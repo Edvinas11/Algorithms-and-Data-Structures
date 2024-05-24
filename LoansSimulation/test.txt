@@ -1,0 +1,14 @@
+Starting simulation with these parameters:
+Client's available cash: 50000.00
+Client's loans number: 150
+
+----------------- Results of the first STRATEGY -----------------
+Total Debt Paid: 50000
+Default Risk: 1 defaulted loans
+Interest Payments: 16607.49
+-----------------------------------------------------------------
+----------------- Results of the second STRATEGY ----------------
+Total Debt Paid: 50000
+Default Risk: 1 defaulted loans
+Interest Payments: 22138.27
+-----------------------------------------------------------------
