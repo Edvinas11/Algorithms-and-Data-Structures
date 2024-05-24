@@ -1,5 +1,5 @@
 # 4 - as. lab. darbas
-#### Autorius: edbu0238
+#### Autorius: Edvinas Burba
 
 **Užduoties esmė:** Grafo realizacija paremta kaimynystės sąrašais
 

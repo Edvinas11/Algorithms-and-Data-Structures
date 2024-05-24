@@ -1,5 +1,5 @@
 # 2-as lab. darbas
-## Edvinas Burba 4 gr. 1 pogr.
+## Edvinas Burba
 ## Užduotis 1
 Iš duotų N natūrinių skaičių išrinkti M skaičių taip, kad jų suma būtų lygi S. Vartotojas nurodo failą, iš kurio programa įveda pradinius N skaičių, bei skaičius M ir S.
 
